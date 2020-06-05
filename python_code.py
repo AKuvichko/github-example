@@ -1,3 +1,6 @@
-#This is my sample python file
-#This notebook will be mainly used for the capstone project
-print("Hello, World!")
+## This is my sample python file
+## This notebook will be mainly used for the capstone project
+import pandas as pd
+import numpy as np
+
+print("Hello Capstone Project Course!")
